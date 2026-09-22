@@ -39,5 +39,9 @@ venv/
 __pycache__/
 *.pyc
 
+# logs y respaldos de la base de datos
+*.log
+backend/mysql_*.sql
+
 # typescript
 *.tsbuildinfo
